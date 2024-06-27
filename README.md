@@ -8,5 +8,9 @@
 petchy125/petchy125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Screenshot 2567-06-27 at 21 58 05](https://github.com/petchy125/petchy125/assets/10216159/7273766b-bdc9-40ee-bfdb-b3e9d2e39967)
-![Screenshot 2567-06-27 at 21 58 21](https://github.com/petchy125/petchy125/assets/10216159/c54498e3-9a59-40da-88c7-e64a344f70ad)
+
+![Screenshot 2567-06-27 at 21 58 05](https://github.com/petchy125/petchy125/assets/10216159/ecfb80cd-8b0d-4650-a58a-61b7f5e217b5)
+
+<img width="1353" alt="Screenshot 2567-06-27 at 22 21 36" src="https://github.com/petchy125/petchy125/assets/10216159/29e06a8c-fbea-4cfb-a9db-3254282f2f77">
+
+
